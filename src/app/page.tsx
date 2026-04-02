@@ -66,35 +66,35 @@ export default function LandingPage() {
           handle: "@ravi",
           testimonial: "Excellent collection and very friendly staff. Highly recommend!",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-woman-mirror_1301-1468.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-woman-mirror_1301-1468.jpg?_wi=1",
         },
         {
           name: "Priya Reddy",
           handle: "@priya",
           testimonial: "My go-to place for all fashion accessories in Vijayawada.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/excited-women-standing-boutique_23-2147666176.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/excited-women-standing-boutique_23-2147666176.jpg?_wi=1",
         },
         {
           name: "Sneha S.",
           handle: "@sneha",
           testimonial: "Beautiful variety and reasonable pricing. Love the store ambience.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-best-friends-with-shopping-bags_329181-8012.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-best-friends-with-shopping-bags_329181-8012.jpg?_wi=1",
         },
         {
           name: "Anil Verma",
           handle: "@anil",
           testimonial: "Great experience, found exactly what I needed.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-smiley-women-shopping_23-2149241329.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-smiley-women-shopping_23-2149241329.jpg?_wi=1",
         },
         {
           name: "Kavya Devi",
           handle: "@kavya",
           testimonial: "One of the best boutique shops. Superb quality!",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-young-smiling-happy-pretty-woman-with-excited-face-expression-sitting-cafe-with-shopping-bags-drinking-coffee_285396-9623.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-young-smiling-happy-pretty-woman-with-excited-face-expression-sitting-cafe-with-shopping-bags-drinking-coffee_285396-9623.jpg?_wi=1",
         },
       ]}
       buttons={[
@@ -241,7 +241,7 @@ export default function LandingPage() {
           quote: "The best boutique store in the area.",
           name: "Ravi Kumar",
           role: "Regular Client",
-          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-woman-mirror_1301-1468.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-woman-mirror_1301-1468.jpg?_wi=2",
         },
         {
           id: "2",
@@ -249,7 +249,7 @@ export default function LandingPage() {
           quote: "Love the unique styles available here.",
           name: "Priya Reddy",
           role: "Regular Client",
-          imageSrc: "http://img.b2bpic.net/free-photo/excited-women-standing-boutique_23-2147666176.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/excited-women-standing-boutique_23-2147666176.jpg?_wi=2",
         },
         {
           id: "3",
@@ -257,7 +257,7 @@ export default function LandingPage() {
           quote: "Quality is always top-notch.",
           name: "Sneha S.",
           role: "Fashion Enthusiast",
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-best-friends-with-shopping-bags_329181-8012.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-best-friends-with-shopping-bags_329181-8012.jpg?_wi=2",
         },
         {
           id: "4",
@@ -265,7 +265,7 @@ export default function LandingPage() {
           quote: "Very polite and helpful service.",
           name: "Anil Verma",
           role: "Regular Client",
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-smiley-women-shopping_23-2149241329.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-smiley-women-shopping_23-2149241329.jpg?_wi=2",
         },
         {
           id: "5",
@@ -273,7 +273,7 @@ export default function LandingPage() {
           quote: "Found my perfect wedding dress here.",
           name: "Kavya Devi",
           role: "Regular Client",
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-young-smiling-happy-pretty-woman-with-excited-face-expression-sitting-cafe-with-shopping-bags-drinking-coffee_285396-9623.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-young-smiling-happy-pretty-woman-with-excited-face-expression-sitting-cafe-with-shopping-bags-drinking-coffee_285396-9623.jpg?_wi=2",
         },
       ]}
       title="What Our Customers Say"
